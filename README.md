@@ -1,5 +1,5 @@
 # url-checker
-A Python scrip to check a url is accessible.
+A Python scrip to check if a url is accessible.
 
 一个检查网页是否可以访问的python脚本,若可以访问则循环检查,可以自定义检测间隔...
 
